@@ -4,8 +4,8 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
-
+{% include feature/line-chart.html data="party-platforms-1900-1944-all" topic="Aftermath of ww1" %}
+These are words that have to do with ww1. They also have to do with party platforms.
 # American Essay
 
 ## Introduction

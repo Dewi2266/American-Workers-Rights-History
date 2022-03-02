@@ -10,11 +10,9 @@ permalink: /essay-01.html
 
 ## Introduction
 
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
+This essay is about america, for americans, by an american.
 
-Leave an empty line between headings and paragraphs.
-
+I love America, and I love freedom
 Font can be *Italic* or **Bold**.
 
 Citing your work is important! [^1]

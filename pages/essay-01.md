@@ -14,9 +14,12 @@ This essay is about america, for americans, by an american.
 
 I love America, and I love freedom
 1.*America* 
+
 2.**America is cool** 
+
 3.[Interesting AMerican Flag](https://www.google.com/search?q=american+flag&rlz=1C1CHBF_enUS944US944&sxsrf=APq-WBsEjYo8FSCMnZ4szEYRmKVxS4kCSg:1646181388353&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjDuo3Hl6b2AhWtIEQIHfYACS0Q_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1#imgrc=DJNX2YdKNYDogM)
-Citing your work is important! [^1]
+
+American food is good. Big Mac
 
 Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
 

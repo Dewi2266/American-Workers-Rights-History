@@ -33,8 +33,9 @@ Walker, Mark. “The Ludlow Massacre: Class, Warfare, and Historical Memory in S
 U.S. Reports: West Coast Hotel Co. v. Parrish, 300 U.S. 379 (1937).
 “Fair Labor Standards Act of 1938: Maximum Struggle for a Minimum Wage.” United States Department of Labor, https://www.dol.gov/general/aboutdol/history/flsa1938. 
 
+https://www.pbs.org/wgbh/americanexperience/media/filer_public_thumbnails/filer_public/cf/75/cf756a95-dfb8-4681-9aa9-9b0ebdbcc3c8/rockefeller-ludlow-massacre-1914-loc.jpg__400x514_q85_crop_subsampling-2_upscale.jpg
 
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Homestead_Strike_-_18th_Regiment_arrives_cph.3b03430.jpg/1200px-Homestead_Strike_-_18th_Regiment_arrives_cph.3b03430.jpg
 # 
 {% include feature/pdf.html filename="demo_002.pdf" caption="Historic postcard" width="50" %}
 

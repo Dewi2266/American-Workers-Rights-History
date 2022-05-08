@@ -24,52 +24,38 @@ The Fair Labor Stnadards Act is perhaps the greatest achievements for workers ri
 # Title VII of the Civil Right Act of 1964
 The civil rights act was some of the most important legislation in American history. It ended segregation in public places, and also ended discrimination in the workplace. Title VII of the 1964 civil rights act says: “a) Discriminatory practices prohibited; employees or applicants for employment subject to coverage” Title VII had multiple purposes, one of them was to lower African-American unemployment and underemployment. Sadly the results were not seen immediately, soon after the “Race Riots” erupted in cities all around America for the next few years. Title VII also had an effect on foreign policy. The civil rights act of 1964 was also a symbolic gesture to the world that America is a meritocracy, and that America doesn't discriminate against racial minorities. Title VII also had some weaknesses. It only combats future employment discrimination but does not deal with the racist attitudes of some Americans, but no legislation could completely solve that. One of the lasting effects of Title VII was the creation of the U.S. Equal Employment Opportunity Commission. The EEOC is the government organization that investigates complaints of discrimination and enforces the law upon offenders. Today the EEOC deals with much more than just racism, but also sexism, discrimination of one's religion or ideals, and ableism. Though Title VII did not fix the unemployment rate for African Americans at the time, it paved the road for African Americans to have more equal opportunities, no longer could they not gain employment based on the color of their skin[^7].(Legally) 
 # Osha
-One of the defining features of industrial work in America is the danger. The early 20th century marked some of the worst job safety and blatant disregard for employees' health in American history. It was not uncommon to be injured on the job site or even worse. Theoretically, American workers could sue companies for damages over an injury, but there is abundant documentation that many cases were either blacklisted or dismissed. In the 1970s, likely trying to win blue-collar votes, Richard Nixon supported and signed the Occupational Health and Safety Act. (OSH)  This would create the government organization OSHA. OSHA inspects and investigates working conditions in American businesses. They also enforce the law against violators of the OSHA working codes. Violations are evaluated based on Hazard Likelihood, Probability of effect, Severity of effect, and Range of effect. Each factor is rated on a scale of 1-4, with one being a rare occurrence, and four being a common occurrence. Businesses would be heavily fined, far more than what any state would fine for Health and Safety Violations. OSHA codified universal health and safety for all workers in America. Business owners could no longer afford to ignore the health and safety of their employees. A massive victory for workers’ rights was won.
+One of the defining features of industrial work in America is the danger. The early 20th century marked some of the worst job safety and blatant disregard for employees' health in American history. It was not uncommon to be injured on the job site or even worse. Theoretically, American workers could sue companies for damages over an injury, but there is abundant documentation that many cases were either blacklisted or dismissed. In the 1970s, likely trying to win blue-collar votes, Richard Nixon supported and signed the Occupational Health and Safety Act. (OSH)  This would create the government organization OSHA. OSHA inspects and investigates working conditions in American businesses. They also enforce the law against violators of the OSHA working codes. Violations are evaluated based on Hazard Likelihood, Probability of effect, Severity of effect, and Range of effect. Each factor is rated on a scale of 1-4, with one being a rare occurrence, and four being a common occurrence. Businesses would be heavily fined, far more than what any state would fine for Health and Safety Violations. OSHA codified universal health and safety for all workers in America. Business owners could no longer afford to ignore the health and safety of their employees. A massive victory for workers’ rights was won[^8].
 ## Conclusion
-The American working conditions of the early 20th century can not even compare to what they would be at the turn of the century. Over the course of 100 years, barbaric business practices such as child labor, unsafe working environments, underpaid labor, and sexist/racist discrimination from employment were no longer legal. Minimum wage, overtime, and universal health and safety on the job site are all basic requirements for businesses to this day. Worker's rights advocates fought long and hard for a better place to work, and in the end, the Workers Won, and America is now a land of fair labor practices. It is all thanks to the Men, Women, and Children that suffered so we didn’t have to[^8]. 
+The American working conditions of the early 20th century can not even compare to what they would be at the turn of the century. Over the course of 100 years, barbaric business practices such as child labor, unsafe working environments, underpaid labor, and sexist/racist discrimination from employment were no longer legal. Minimum wage, overtime, and universal health and safety on the job site are all basic requirements for businesses to this day. Worker's rights advocates fought long and hard for a better place to work, and in the end, the Workers Won, and America is now a land of fair labor practices. It is all thanks to the Men, Women, and Children that suffered so we didn’t have to. 
 
 ## Notes
  
 [^1]:Bemis, Edward W. “The Homestead Strike.” University of Chicago Press, June 1894, pp. 381–384., https://doi.org/https://www.jstor.org/stable/1819234. 
-
 [^1]:Stowell, Myron R. “Chapter 3.” Fort Frick," or the Siege of Homestead, Pittsburg Printing Co, Pittsburg, PA, 1893, pp. 37–44. 
 
 [^2]:Mayer, Gerald, et al. “PDF.” CRS Report for Congress, 4 June 2013 pp 1-8. 
-
 [^2]:White, Frank Marshall. “The Babies Who Work.” Harpers Weekly, 1 Jan. 1910, pp. 13–14. 
-
 [^2]:Massachusetts Child Labor Commitee. The Eight Hour Day for Children under 16, Massachusetts Child Labor Commitee, Boston, MA, 1913. 
 
 [^3]:Fink, Walter H. “Massacre of the Innocents.” The Ludlow Massacre, Revealing the Horrors of Rule by Hired Assassins of Industry and Telling as Well of the Thirty Years War Waged by Colorado Coal Miners against Corporation-Owned State & County Officials to Secure an Enforcement of the Laws, Denver, Williamson-Haffner, Printers, 1914, pp. 8–15. 
-
 [^3]:Walker, Mark. “The Ludlow Massacre: Class, Warfare, and Historical Memory in Southern Colorado.” Remembering Landscapes of Conflict, vol. 37, no. 3, 2003, pp. 66–70., https://doi.org/https://www-jstor-org.uidaho.idm.oclc.org/stable/25617081?seq=1. 
 
 [^4]:Farrell, Jeff. “Henry Ford's Anti-Semitism: A Rhetorical Analysis of the ‘Paranoid’ Style.” University of Nevada, University of Nevada, 1999. Pp 6-10
-
 [^4]:FORD, HENRY. My Life and Work. DIGIREADS COM PUBLISHING, 2020. Pp 60-66 
-
 [^4]:Wagnalls, Adam W, et al. “Henry Ford's Five-Day Week.” The Literary Digest, 29 Apr. 1922. Pp 8
 
 [^5]:Golden, Claudia D. “The Role of World War II in the Rise of Women's Employment.” Jstor, vol. 81, no. 4, Sept. 1991, pp 741-743
-
 [^5]:McEuen, Melissa A. “Women, Gender, and World War II.” Oxford Research Encyclopedia of American History, 2016, 
-
 [^5]:War Manpower Commission United States Employment Service. If Hitler Came to Mobile, National Archives. 
 
 [^6]:Samuel, Howard D. “Troubled Passage: the Labor Movement and the Fair Labor Standards Act.” Monthly Labor Review, 2000, pp. 34–37., https://doi.org/https://www.bls.gov/opub/mlr/author/samuel-howard-d.htm. 
-
 [^6]:“Bourbon Employers Oppose Fair Labor Standards Act.” Montana Labor News, 25 May 1939, p. 2. 
-
 [^6]:“1$ Minimum Wage Law, Hundreds of Others Signed By Eisenhower.” Nome Nugget, 15 Aug. 1955, p. 2. Library of Congress
 
 [^7]:Brown, Paulette. “The Civil Rights Act of 1964.” Washington University Law Review, vol. 92, no. 2, 2014, pp. 9–12. 
-
 [^7]:Henson, Chuck. “The Purposes of Title VII.” University of Missouri , 2019, pp. 1–12. 
-
 [^7]:Civil Rights Act of 1964 § 7, 42 U.S.C. § 2000e et seq (1964).
 
 [^8]:“Overview.” US EEOC, U.S. Equal Employment Opportunity Commission, https://www.eeoc.gov/overview#:~:text=The%20U.S.%20Equal%20Employment%20Opportunity,national%20origin%2C%20age%20(40%20or.
-
 [^8]:McKnight, James A. “Summary.” Training Course for Compliance Safety and Health Officers, Final Report, Occupational Safety and Health Administration, 1972, pp. 5–15. 
-
- [^8]:Noble, Charles. “The Origins of the Osh Act.” Liberalism at Work, 2019, pp. 89–94., https://doi.org/10.2307/j.ctvn5tvk1.8. 
+[^8]:Noble, Charles. “The Origins of the Osh Act.” Liberalism at Work, 2019, pp. 89–94., https://doi.org/10.2307/j.ctvn5tvk1.8. 

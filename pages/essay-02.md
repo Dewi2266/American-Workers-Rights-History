@@ -1,5 +1,5 @@
 ---
-title:A Brief History ofWorker Right in the American 20th Century
+title:A Brief History of Workers' Rights in the American 20th Century
 layout: about
 permalink: /essay-02.html
 ---
